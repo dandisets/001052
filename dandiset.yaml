@@ -29,8 +29,8 @@ assetsSummary:
   variableMeasured:
   - Units
 citation: Cowen, Stephen; BRAIN Initiative (2024) Acute Random and FixedBurst stim
-  in MFB and mPFC using Neuropixels in NAc (Version draft) [Data set]. DANDI archive.
-  https://dandiarchive.org/dandiset/001052/draft
+  in MFB and mPFC using Neuropixels in NAc (Version 0.240610.1814) [Data set]. DANDI
+  archive. https://doi.org/10.48324/dandi.001052/0.240610.1814
 contributor:
 - affiliation: []
   email: scowen@email.arizona.edu
@@ -50,20 +50,21 @@ dateCreated: '2024-06-10T16:59:44.419010+00:00'
 datePublished: '2024-06-10T18:14:34.321177+00:00'
 description: "Anesthetized rats - recording effects of stim on NAc ensemble activity
   \nFunded by BRAIN Initiative NS123424-01"
+doi: 10.48324/dandi.001052/0.240610.1814
 ethicsApproval:
 - contactPoint:
     email: scowen@arizona.edu
     schemaKey: ContactPoint
   identifier: 12-399
   schemaKey: EthicsApproval
-id: DANDI:001052/draft
+id: DANDI:001052/0.240610.1814
 identifier: DANDI:001052
 keywords:
 - nucleus accumbens, ensemble
 license:
 - spdx:CC0-1.0
 manifestLocation:
-- https://api.dandiarchive.org/api/dandisets/001052/versions/draft/assets/
+- https://dandiarchive.s3.amazonaws.com/dandisets/001052/0.240610.1814/assets.yaml
 name: Acute Random and FixedBurst stim in MFB and mPFC using Neuropixels in NAc
 protocol: []
 publishedBy:
@@ -83,6 +84,6 @@ repository: https://dandiarchive.org
 schemaKey: Dandiset
 schemaVersion: 0.6.7
 studyTarget: []
-url: https://dandiarchive.org/dandiset/001052/draft
-version: draft
+url: https://dandiarchive.org/dandiset/001052/0.240610.1814
+version: 0.240610.1814
 wasGeneratedBy: []
